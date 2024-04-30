@@ -1,0 +1,8 @@
+syntax: glob
+*.local
+sass/example/bootstrap.json
+bootstrap.*
+sass/example/bootstrap.js
+sass/example/example.css
+build.xml
+/.sencha
